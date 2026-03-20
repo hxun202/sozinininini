@@ -4,56 +4,25 @@ using namespace std;
 
 template <typename T>
 
-class List
+class Vector
 {
 private:
-	struct Node
-	{
-		T data;
-		Node* next;
-	};
-
-	int size;
-	Node* head;
+	int count;
+	int capacity;
+	
+	T* pointer;
 
 public:
-	List()
+	Vector()
 	{
-		size = 0;
-		head = nullptr;
+		count = 0;
+		capacity = 0;
+		pointer = nullptr;
 	}
 
-	void push_back(T data)
+	void resize(int newSize)
 	{
-		Node* newNode = new Node;
-
-		newNode->data = data;
-
-		if (head == nullptr)
-		{
-			head = newNode;
-
-			newNode->next = head;
-		}
-		else
-		{
-			newNode->next = head->next;
-
-			head->next = newNode;
-
-			head = newNode;
-		}
-
-		size++;
-	}
-
-	void pop_back()
-	{
-		if (head == nullptr)
-		{
-			cout << "linked list is empty" << endl;
-		}
-		else
+		for (int i = 0; i < capacity; i++)
 		{
 
 		}
@@ -62,8 +31,7 @@ public:
 
 int main()
 {
-	List<int> list;
+	Vector<int> vector;
 
-	list.push_back(10);
-	list.push_back(20);
+	return 0;
 }
