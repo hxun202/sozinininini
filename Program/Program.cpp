@@ -1,37 +1,53 @@
 ﻿#include <iostream>
+#define SIZE 5
 
 using namespace std;
 
 template <typename T>
 
-class Vector
+class Queue
 {
 private:
-	int count;
-	int capacity;
-	
-	T* pointer;
+	int rear;
+	int front;
+
+	T container[SIZE];
 
 public:
-	Vector()
+	Queue()
 	{
-		count = 0;
-		capacity = 0;
-		pointer = nullptr;
+		rear = 0;
+		front = 0;
+
+		for (int i = 0; i < SIZE; i++)
+		{
+			container[i] = NULL;
+		}
 	}
 
-	void resize(int newSize)
+	void push(T data)
 	{
-		for (int i = 0; i < capacity; i++)
+		if (rear >= SIZE)
 		{
-
+			cout << "linear queue overflow" << endl;
+		}
+		else
+		{
+			container[rear++] = data;
 		}
 	}
 };
 
 int main()
 {
-	Vector<int> vector;
+	Queue<int> queue;
+
+	queue.push(10);
+	queue.push(20);
+	queue.push(30);
+	queue.push(40);
+	queue.push(50);
+	queue.push(60);
 
 	return 0;
 }

@@ -7,6 +7,12 @@
       "RelativeMoniker": "D:0:0:{8DA696A6-291F-4C40-B770-5F08EB5AE736}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7AD09F12-98FE-471A-9D24-48B5CA024D8D}|..\\Class5th (Stack)\\Class5th (Stack).vcxproj|C:\\Users\\Administrator\\Desktop\\sozinininini\\Class5th (Stack)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA034FF-46F6-4B1C-A17D-ACD7924B83C9}|..\\Class4th (Vector)\\Class4th (Vector).vcxproj|C:\\Users\\Administrator\\Desktop\\sozinininini\\Class4th (Vector)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F222A0D2-9622-4AFC-86DF-633E4FA84A16}|..\\Class3th (Circle Linked List)\\Class3th (Circle Linked List).vcxproj|C:\\Users\\Administrator\\Desktop\\sozinininini\\Class3th (Circle Linked List)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -23,11 +29,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class5th (Stack)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class5th (Stack)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class5th (Stack)\\source.cpp",
+              "RelativeToolTip": "..\\Class5th (Stack)\\source.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T12:09:21.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class4th (Vector)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class4th (Vector)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class4th (Vector)\\source.cpp",
+              "RelativeToolTip": "..\\Class4th (Vector)\\source.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T11:03:32.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class3th (Circle Linked List)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Circle Linked List)\\source.cpp",
@@ -35,12 +67,11 @@
               "RelativeToolTip": "..\\Class3th (Circle Linked List)\\source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-20T11:45:50.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T11:45:50.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class2th (Double Linked List)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Double Linked List)\\source.cpp",
@@ -52,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class1th (Single Linked List)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Single Linked List)\\source.cpp",
@@ -70,7 +101,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-16T11:04:46.917Z",
               "EditorCaption": ""
