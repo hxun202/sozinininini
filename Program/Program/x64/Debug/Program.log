@@ -1,3 +1,23 @@
 ﻿  Program.cpp
-C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(58,1): warning C4172: 지역 변수 또는 임시 의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10): warning C4311: '형식 캐스트': 'KEY'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10): warning C4311:         with
+C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10): warning C4311:         [
+C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10): warning C4311:             KEY=const char *
+C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10): warning C4311:         ]
+      C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(57,20):
+          컴파일되는 함수 템플릿 인스턴스화 'unsigned int HashTable<const char *,int>::hash_fuction<const char*>(KEY)'에 대한 참조를 확인하세요.
+          with
+          [
+              KEY=const char *
+          ]
+              C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(57,7):
+              'main'에서 'HashTable<const char *,int>::hash_fuction'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10): warning C4302: '형식 캐스트': 'KEY'에서 'unsigned int'(으)로 잘립니다.
+C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10): warning C4302:         with
+C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10): warning C4302:         [
+C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10): warning C4302:             KEY=const char *
+C:\Users\Administrator\Desktop\sozinininini\Program\Program.cpp(47,10): warning C4302:         ]
   Program.vcxproj -> C:\Users\Administrator\Desktop\sozinininini\Program\x64\Debug\Program.exe
