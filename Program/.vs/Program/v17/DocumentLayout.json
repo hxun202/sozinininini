@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{8DA696A6-291F-4C40-B770-5F08EB5AE736}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{29FEBC65-8316-4135-9689-F08F4BD86BED}|..\\Class12th (Binary Search Tree)\\Class12th (Binary Search Tree).vcxproj|C:\\Users\\Administrator\\Desktop\\sozinininini\\Class12th (Binary Search Tree)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E494742-8D79-45CB-8D4D-2A5E2D003E5B}|..\\Class11th (Adjacency List)\\Class11th (Adjacency List).vcxproj|C:\\Users\\Administrator\\Desktop\\sozinininini\\Class11th (Adjacency List)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -47,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class12th (Binary Search Tree)\\source.cpp",
+              "RelativeDocumentMoniker": "..\\Class12th (Binary Search Tree)\\source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class12th (Binary Search Tree)\\source.cpp",
+              "RelativeToolTip": "..\\Class12th (Binary Search Tree)\\source.cpp",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAuwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-08T12:37:44.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class10th (Adjacency Matrix)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class10th (Adjacency Matrix)\\source.cpp",
@@ -63,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class9th (Hash Table)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class9th (Hash Table)\\source.cpp",
@@ -75,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class8th (Priority Queue)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Priority Queue)\\source.cpp",
@@ -87,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class7th (Circle Queue)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Circle Queue)\\source.cpp",
@@ -99,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class6th (Linear Queue)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class6th (Linear Queue)\\source.cpp",
@@ -111,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class5th (Stack)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Stack)\\source.cpp",
@@ -123,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class4th (Vector)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Vector)\\source.cpp",
@@ -135,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class3th (Circle Linked List)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Circle Linked List)\\source.cpp",
@@ -147,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class2th (Double Linked List)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Double Linked List)\\source.cpp",
@@ -159,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class1th (Single Linked List)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Single Linked List)\\source.cpp",
@@ -177,14 +193,14 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAqwKwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-16T11:04:46.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozinininini\\Class11th (Adjacency List)\\source.cpp",
               "RelativeDocumentMoniker": "..\\Class11th (Adjacency List)\\source.cpp",
